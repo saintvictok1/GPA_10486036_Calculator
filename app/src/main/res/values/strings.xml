@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPA_10486036_Calculator</string>
+    <string name="clear">Clear</string>
+    <string name="compute">Compute Gpa</string>
+</resources>
